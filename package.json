@@ -1,0 +1,14 @@
+{
+  "name": "@cahil/workflows",
+  "version": "1.0.0",
+  "author": "Cahil Foley",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.3"
+  }
+}
